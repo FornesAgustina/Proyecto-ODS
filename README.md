@@ -1,6 +1,6 @@
 # Proyecto ODS
-*Integrantes:*
+Integrantes:
     Agustina Fornés,
     Chiara Mennuti,
-    Salvador Tartaglia y 
-    Javier Santa Cruz
+    Javier Santa Cruz y 
+    Salvador Tartaglia
